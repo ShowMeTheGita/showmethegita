@@ -1,16 +1,27 @@
-### Hi there 👋
+&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|    
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;__  |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;____  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp; _ &nbsp;&nbsp;&nbsp; \  &nbsp;&nbsp;&nbsp;&nbsp; |  
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp; ___ &nbsp;/  &nbsp;&nbsp;&nbsp; |  
+|&nbsp;_&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _&nbsp;|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\  ____&nbsp;&nbsp;|
 
-<!--
-**ShowMeTheGita/showmethegita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-Here are some ideas to get you started:
+ 1  _    _          _   _            __          __                 _       _   _ 
+ 2 | |  | |        | | | |           \ \        / /                | |     | | | |
+ 3 | |__| |   ___  | | | |   ___      \ \  /\  / /    ___    _ __  | |   __| | | |
+ 4 |  __  |  / _ \ | | | |  / _ \      \ \/  \/ /    / _ \  | '__| | |  / _` | | |
+ 5 | |  | | |  __/ | | | | | (_) |      \  /\  /    | (_) | | |    | | | (_| | |_|
+ 6 |_|  |_|  \___| |_| |_|  \___/        \/  \/      \___/  |_|    |_|  \__,_| (_)
+                                                                                
+                                                                                
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
