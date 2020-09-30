@@ -14,7 +14,8 @@ __  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ### Welcome to my Github profile!  
 
-
+I'm a simple portuguese guy parachuting into the programming world.  
+Make yourself at home and take a stroll down learning avenue. Here you can find the majority of my projects, either finished or ongoing. [Here is my CV](https://github.com/ShowMeTheGita/showmethegita/blob/master/cv-en-Guilherme-Silva_Github.pdf) if you want to get to know me slightly better. Don't hesitate in contacting me if you have any questions or just want to chat about something, honestly. I love a good chit-chat. 
 
 #### Social  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/gmmfsilva/)
