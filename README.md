@@ -1,3 +1,5 @@
+###### (If you're on mobile, this is some ASCII, Markdown art. Open it on a computer browser to see it :grin:)  
+
 &nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_  
 |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; |  
 |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;__  |&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;____ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp; | &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ____   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
@@ -37,8 +39,7 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
 <a href="https://gitlab.com/ShowMeTheGita">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" href="https://gitlab.com/ShowMeTheGita" alt="gitlab profile" width="40" height="40"/>
 </a>  
-
-
-                                                                                
-                                                                                
-
+<br/>
+<br/>
+<br/>
+###### (...and yes, I made the ASCII/Markdown art above from scratch. I'm not proud of the time that took me)
