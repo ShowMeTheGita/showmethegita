@@ -22,9 +22,10 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
 
 #### I can use these to throw some heavier punches
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="html5" width="60" height="60"/>
-<img src="" alt="css3" width="60" height="60"/>
-<img src="" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/logos/java-seeklogo.com.svg" alt="java" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/> 
+<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/logos/html-5.svg" alt="html" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="js" width="60" height="60"/>
 </p>
 
 
