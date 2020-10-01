@@ -29,7 +29,6 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
 <img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/logos/html-5.svg" alt="html" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="js" width="60" height="60"/>
 <img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/logos/css.svg" alt="css" width="60" height="60"/>
-...and many more! Complete list available on my LinkedIn.
 </p>
   
 ---
