@@ -1,4 +1,4 @@
-![hello-world-gif](https://miro.medium.com/max/700/1*6-xhHQ66MVyfuWw5OjuAlw.gif)
+![hello-world-gif](/img-resources/hello-world-profile.gif)
 
 
 ### Welcome to my Github profile!  
