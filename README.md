@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="/img-resources/hello-world-profile.gif">
 </p>
 
