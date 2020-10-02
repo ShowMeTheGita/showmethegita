@@ -1,4 +1,6 @@
-![hello-world-gif](/img-resources/hello-world-profile.gif)
+<p align="center">
+  <img src="/img-resources/hello-world-profile.gif">
+</p>
 
 
 ### Welcome to my Github profile!  
