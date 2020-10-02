@@ -13,11 +13,11 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
   
 #### Heavy hitters:
 <p align="left">
-<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/logos/java-seeklogo.com.svg" alt="java" width="60" height="60"/>
+<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/img-resources/java-seeklogo.com.svg" alt="java" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/> 
-<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/logos/html-5.svg" alt="html" width="60" height="60"/>
+<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/img-resources/html-5.svg" alt="html" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="js" width="60" height="60"/>
-<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/logos/css.svg" alt="css" width="60" height="60"/>
+<img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/img-resources/css.svg" alt="css" width="60" height="60"/>
 </p>
   
 ---
