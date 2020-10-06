@@ -13,6 +13,7 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
   
 #### Learning Path:
   
+* <strong>...finish my programming bootcamp!</strong> &nbsp; :heavy_check_mark:
 * Learn Spring Boot basics &nbsp; :heavy_check_mark:
 * Complete a basic project using Spring Boot &nbsp; :heavy_check_mark:
 * Learn HTML structuring and CSS (CSS grid, Flexbox and website responsiveness) &nbsp; :heavy_check_mark:
