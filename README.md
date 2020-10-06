@@ -11,6 +11,17 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
   
   ---
   
+#### Learning Path:
+  
+* Learn Spring Boot basics &nbsp; :heavy_check_mark:
+* Complete a basic project using Spring Boot &nbsp; :heavy_check_mark:
+* Learn HTML structuring and CSS (CSS grid, Flexbox and website responsiveness) &nbsp; :heavy_check_mark:
+* (Finally) create a proper Github profile &nbsp; :heavy_check_mark:
+* Revise basic JavaScript for DOM traversing and manipulation &nbsp; :heavy_check_mark:
+* Create some more basic JavaScript projects &nbsp; :heavy_minus_sign:
+* Dive into the most widely-used front-end frameworks (React && Angular) &nbsp; :heavy_minus_sign:
+  
+  
 #### Heavy hitters:
 <p align="left">
 <img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/img-resources/java-seeklogo.com.svg" alt="java" width="60" height="60"/>
@@ -22,7 +33,7 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
   
 ---
 
-#### Social stuff:  
+#### Other social stuff:  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/gmmfsilva/)  
 <a href="https://gitlab.com/ShowMeTheGita">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" href="https://gitlab.com/ShowMeTheGita" alt="gitlab profile" width="40" height="40"/>
