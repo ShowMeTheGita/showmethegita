@@ -5,7 +5,7 @@
 
 ### Welcome to my Github profile!  
 
-I'm a simple portuguese guy parachuting into the programming world after finishing 14-week intensive programming bootcamp.  
+I'm a simple portuguese guy parachuting into the programming world after finishing a 14-week intensive programming bootcamp.  
 Make yourself at home and take a stroll down learning avenue. Here you can find the majority of my projects, either finished or ongoing. [Here is my CV](https://github.com/ShowMeTheGita/showmethegita/blob/master/cv-en-Guilherme-Silva-Github.pdf) if you want to get to know me slightly better. Don't hesitate in contacting me if you have any questions or just want to chat about something, honestly. I love a good chit-chat.  
 <strong>Até já!</strong>
   
