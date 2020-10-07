@@ -11,7 +11,9 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
   
   ---
   
-#### Learning Path:
+#### Learning Path: &nbsp;&nbsp;&nbsp;&nbsp; ![inProgressBadge](https://img.shields.io/badge/Currently_working_on...-Angular-brightgreen)
+
+
   
 * <strong>...finish my programming bootcamp!</strong> &nbsp; :heavy_check_mark:
 * Learn Spring Boot basics &nbsp; :heavy_check_mark:
