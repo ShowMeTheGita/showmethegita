@@ -28,7 +28,7 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
 * Build an Android app with Android Studio :heavy_minus_sign:
   
   
-#### Heavy hitters:
+#### Heavy Hitters:
 <p align="left">
 <img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/img-resources/java-seeklogo.com.svg" alt="java" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/> 
@@ -39,7 +39,7 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
   
 ---
 
-#### Other social stuff:  
+#### Other Social Stuff:  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/gmmfsilva/)  
 <a href="https://gitlab.com/ShowMeTheGita">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" href="https://gitlab.com/ShowMeTheGita" alt="gitlab profile" width="40" height="40"/>
