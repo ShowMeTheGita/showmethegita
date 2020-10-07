@@ -16,6 +16,7 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
 * <strong>...finish my programming bootcamp!</strong> &nbsp; :heavy_check_mark:
 * Learn Spring Boot basics &nbsp; :heavy_check_mark:
 * Complete a basic project using Spring Boot &nbsp; :heavy_check_mark:
+* Replicate said Spring Boot project with a JavaScript implementation so it can be viewed on Github pages :heavy_check_mark:
 * Learn HTML structuring and CSS (CSS grid, Flexbox and website responsiveness) &nbsp; :heavy_check_mark:
 * (Finally) create a proper Github profile &nbsp; :heavy_check_mark:
 * Revise basic JavaScript for DOM traversing and manipulation &nbsp; :heavy_check_mark:
