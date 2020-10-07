@@ -21,8 +21,9 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
 * (Finally) create a proper Github profile &nbsp; :heavy_check_mark:
 * Revise basic JavaScript for DOM traversing and manipulation &nbsp; :heavy_check_mark:
 * Create some more basic vanilla JavaScript projects &nbsp; :heavy_check_mark:
-* Play around with Android Studio :heavy_minus_sign:
 * Dive into the most widely-used front-end frameworks (React && Angular) &nbsp; :heavy_minus_sign:
+* Learn Android Studio :heavy_minus_sign:
+* Build an Android app with Android Studio :heavy_minus_sign:
   
   
 #### Heavy hitters:
