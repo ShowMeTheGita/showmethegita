@@ -11,7 +11,7 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
   
   ---
   
-#### Learning Path: &nbsp;&nbsp;&nbsp;&nbsp; ![inProgressBadge](https://img.shields.io/badge/Currently_working_on...-Angular-brightgreen)
+#### Learning Path: &nbsp;&nbsp;&nbsp;&nbsp; ![inProgressBadge](https://img.shields.io/badge/Currently_learning...-Angular-brightgreen)
 
 
   
