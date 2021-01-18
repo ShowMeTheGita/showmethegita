@@ -5,7 +5,8 @@
 
 ### Welcome to my Github profile!  :octocat:
 
-I'm a simple portuguese guy parachuting into the programming world after finishing a 14-week intensive programming bootcamp.  
+I'm a simple portuguese guy parachuting into the programming world after finishing a 14-week intensive programming bootcamp in 2020.  
+Proud [Syoner](https://www.syone.com/), working mostly around Azure, Virtualization and Scripting. Amongst other things.
 Make yourself at home and take a stroll down learning avenue. Here you can find the majority of my projects, either finished or ongoing. [Here is my CV](https://github.com/ShowMeTheGita/showmethegita/blob/master/cv-en-Guilherme-Silva-Github.pdf) if you want to get to know me slightly better. Don't hesitate in contacting me if you have any questions or just want to chat about something, honestly. I love a good chit-chat.  
 <strong>Até já!</strong>
   
@@ -35,6 +36,8 @@ Make yourself at home and take a stroll down learning avenue. Here you can find 
 <img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/img-resources/html-5.svg" alt="html" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="js" width="60" height="60"/>
 <img src="https://github.com/ShowMeTheGita/showmethegita/blob/master/img-resources/css.svg" alt="css" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="azure" width="60" height="60"/>
 </p>
   
 ---
